@@ -21,12 +21,6 @@ house-price-prediction/
 
 ---
 
-## 📊 EDA Example
-
-![Correlation Heatmap](images/correlation_heatmap.png)
-
----
-
 ## 🚀 Models Used
 
 | Model              | MAE      | RMSE     | R²    |
